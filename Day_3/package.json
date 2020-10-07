@@ -1,0 +1,17 @@
+{
+  "name": "day_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "async_await.js",
+  "dependencies": {
+    "@babel/core": "^7.11.6",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
